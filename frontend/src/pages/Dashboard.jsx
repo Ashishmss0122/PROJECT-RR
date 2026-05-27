@@ -17,7 +17,8 @@ import {
   ArrowDownLeft, 
   AlertCircle, 
   Clock,
-  Eye
+  Eye,
+  Sparkles
 } from 'lucide-react';
 import GlassCard from '../components/GlassCard';
 
